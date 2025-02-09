@@ -16,7 +16,7 @@ This is a simple CRUD API for managing recipes using Node.js, Express.js, and Mo
 - `DELETE /api/recipes/:id` - Delete a recipe by ID
 
 ## Sample Request (Postman)
-Ensure to include JSON body with required fields when creating or updating recipes.
-
+https://documenter.getpostman.com/view/15579488/2sAYX9mL1i
+Refer the above link to see API documentation
 ## Error Handling
 Proper error handling implemented for validation and missing resource cases.
